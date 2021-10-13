@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![ArtBIT's Stats](https://github-readme-stats.vercel.app/api?username=artbit&show_icons=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff)
 <!--
 **ArtBIT/ArtBIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
