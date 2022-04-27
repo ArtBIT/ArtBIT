@@ -1,5 +1,11 @@
-<h3 align="center"> ArtBIT </h3>
+# Hi there, I'm ArtBIT
 
+I am a full-stack software engineer with my focus slowly shifting towards the front-end over the last decade. I am a digital alchemist. I enjoy exploring the various technologies, learning about them, and combining them in various and creative ways, trying to create something new and interesting.
+
+## Current Skill Set
+HTML5 | CSS3 | JavaScript ES6+ | TypeScript | React | Redux | Node.js | Express.js | PHP | Python | MySql | Arduino | RaspberryPI | IoT
+
+## If you want to reach me, just click these links:
 <p align="center">
   <a href="https://www.patreon.com/artbit">Support Me</a> | 
   <a href="https://games.djordjeungar.com/">My Games</a> | 
