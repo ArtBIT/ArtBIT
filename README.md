@@ -13,7 +13,7 @@ HTML5 | CSS3 | JavaScript ES6+ | TypeScript | React | Redux | Node.js | Express.
   <a href="https://www.youtube.com/user/artbit/">YouTube</a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtBIT&hide=html,css&count_private=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtBIT&hide=html,css&count_private=true&layout=compact&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff)
 
 ![ArtBIT's Stats](https://github-readme-stats.vercel.app/api?username=artbit&show_icons=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff)
 <!--
