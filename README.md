@@ -1,6 +1,6 @@
 # Hi there, I'm ArtBIT
 
-I am a full-stack software engineer with my focus slowly shifting towards the front-end over the last decade. I am a digital alchemist. I enjoy exploring various technologies, learning about them, and combining them in various and creative ways, trying to create something new and interesting.
+I am a full-stack software engineer with my focus slowly shifting towards the front-end over the last decade. I am a digital alchemist. I enjoy exploring various technologies, learning about them, and combining them in various and creative ways, trying to making something new and interesting.
 
 ## Current Skill Set
 HTML5 | CSS3 | JavaScript ES6+ | TypeScript | React | Redux | Node.js | Express.js | PHP | Python | MySql | Arduino | RaspberryPI | IoT
