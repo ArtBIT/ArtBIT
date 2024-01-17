@@ -10,7 +10,8 @@ HTML5 | CSS3 | JavaScript ES6+ | TypeScript | React | Redux | Node.js | Express.
   <a href="https://www.patreon.com/artbit">Support Me</a> | 
   <a href="https://games.djordjeungar.com/">My Games</a> | 
   <a href="https://www.deviantart.com/artbit/">DeviantArt</a> | 
-  <a href="https://www.youtube.com/user/artbit/">YouTube</a>
+  <a href="https://www.youtube.com/user/artbit/">YouTube</a> |
+  <a href="https://github.com/ArtBIT/my-awesome-stars">Stars</a>
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtBIT&hide=html,css&count_private=true&layout=compact&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff)
